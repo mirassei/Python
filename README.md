@@ -1,0 +1,34 @@
+a = 1
+b = 2
+result = a + b
+print("Сложения:", result)
+
+a = 3
+b = 1
+result = a - b
+print("Вычитание:", result)
+
+a = 1
+b = 1
+result = a * b
+print("Умнажение:", result)
+
+a = 6
+b = 2
+result = a ** b
+print("Ведение в степень:", result)
+
+a = 7
+b = 3
+result = a / b
+print("Деление:", result)
+
+a = 8
+b = 4
+result = a // b
+print("Целочисленное деление:", result)
+
+a = 9
+b = 6
+result = a % b
+print("Остатко от деление:", result)
